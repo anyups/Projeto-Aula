@@ -1,0 +1,40 @@
+{
+    "alunos": [
+      {
+        "nome": "Izabela Santos",
+        "num_inscricao": "245665",
+        "curso": "Informática",
+        "id": 1
+      },
+      {
+        "nome": "Izabela Santos",
+        "num_inscricao": "245665",
+        "curso": "Informática",
+        "id": 1
+      },
+      {
+        "nome": "Izabela Santos",
+        "num_inscricao": "245665",
+        "curso": "Informática",
+        "id": 1
+      },
+      {
+        "nome": "Izabela Santos",
+        "num_inscricao": "245665",
+        "curso": "Informática",
+        "id": 1
+      },
+      {
+        "nome": "Izabela Santos",
+        "num_inscricao": "245665",
+        "curso": "Informática",
+        "id": 1
+      },
+      {
+        "nome": "Izabela Santos",
+        "num_inscricao": "245665",
+        "curso": "Informática",
+        "id": 1
+      }
+    ]
+  }
