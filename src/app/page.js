@@ -12,23 +12,19 @@ export default async function Home() {
  
   return (
     <main className={styles.main}>
-
-      <Link className={styles.titulo} href="/cadastro"> Fazer cadastro </Link>
-
+      <Link className={styles.linkroute} href="/cadastro">Cadastrar</Link>
       <div className={styles.container}>
         {alunos.map(aluno => (
           <div className={`${styles.card} ${styles.alunoContainer}`} key={aluno.id}>
-          <div className={styles.conteudo}>
-          <div className={styles.detalhes}>
-            <h3>{aluno.nome}</h3>
-            <p>{aluno.curso}</p>
-          </div>
-          </div>
+            <div className={styles.cardContent}>
+              <div className={styles.personDetails}>
+                <h3>{aluno.nome}</h3>
+                <p>{aluno.curso}</p>
+              </div>
+            </div>
           </div>
         ))}
-
       </div>
-
     </main>
   )
 }
