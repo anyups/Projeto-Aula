@@ -1,40 +1,40 @@
 {
     "alunos": [
       {
-        "nome": "Izabela Santos",
+        "nome": "Izabella Santos",
         "num_inscricao": "245665",
         "curso": "Informática",
         "id": 1
       },
       {
-        "nome": "Izabela Santos",
-        "num_inscricao": "245665",
+        "nome": "Any Santos",
+        "num_inscricao": "245666",
         "curso": "Informática",
-        "id": 1
+        "id": 2
       },
       {
-        "nome": "Izabela Santos",
-        "num_inscricao": "245665",
+        "nome": "Isabela Gualberto",
+        "num_inscricao": "245667",
         "curso": "Informática",
-        "id": 1
+        "id": 3
       },
       {
-        "nome": "Izabela Santos",
-        "num_inscricao": "245665",
+        "nome": "Karen Decleva",
+        "num_inscricao": "245668",
         "curso": "Informática",
-        "id": 1
+        "id": 4
       },
       {
-        "nome": "Izabela Santos",
-        "num_inscricao": "245665",
+        "nome": "Karina Decleva",
+        "num_inscricao": "245669",
         "curso": "Informática",
-        "id": 1
+        "id": 5
       },
       {
-        "nome": "Izabela Santos",
-        "num_inscricao": "245665",
+        "nome": "Vitória Medeiros",
+        "num_inscricao": "245670",
         "curso": "Informática",
-        "id": 1
+        "id": 6
       }
     ]
   }
